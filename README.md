@@ -1,4 +1,4 @@
-# Notas de Git
+# Notas de Git :octocat:
 
 ## Comandos importantes
 Resumo de alguns comandos que geralmente são mais utilizados no dia a dia.
