@@ -69,3 +69,14 @@ me_ignore.py
 ```
 Estão sendo ignorados todos os arquivos com extensão ``.java``, todos os arquivos contidos em pasta_2 e
 o arquivo ``me_ignore.py`` na raiz do projeto e o arquivo ``me_ignore_tambem.c`` na pasta_1.
+
+## Branches
+Branches são ramificações de um estado de trabalho, assim conseguimos diminuir conflitos. Podemos criar
+uma branch a partir do comando ``git branch nome_da_branch`` e mudar para ela a partir do comando
+``git checkout``. Clicando [aqui](http://git-school.github.io/visualizing-git/) você encontra uma aplicação
+que faz a visualização de como as branches funcionam. 
+
+O seguinte comando permite criar a branch e já mudar para ela:
+```sh
+git checkout -b nome_da_branch 
+```

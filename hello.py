@@ -1,4 +1,7 @@
+def greeter(name):
+    print(f'Hello {name}!')
+    
 def say(word):
     print(word)
     
-say('Hello World')
+greeter('Bob')
