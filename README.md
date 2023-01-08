@@ -80,3 +80,9 @@ O seguinte comando permite criar a branch e já mudar para ela:
 ```sh
 git checkout -b nome_da_branch 
 ```
+
+## Issues
+Issues são sessões utilizadas para indicar que há algum problema, no entanto, hoje em dia 
+existem outras diversas utilizades interessantes para essa feature. Podemos criar um [kambam](https://rockcontent.com/br/blog/kanban/)
+ou uma to-do list por exemplo.Para resolver issues usuários de fora do projeto podemo utilizar ``pull requests``, ou seja, pedidos 
+de alteração no código. Para isso o usuário realiza um ``fork``, altera o projeto e faz o ``pull request``.
