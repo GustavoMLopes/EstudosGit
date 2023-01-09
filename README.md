@@ -81,6 +81,9 @@ O seguinte comando permite criar a branch e já mudar para ela:
 git checkout -b nome_da_branch 
 ```
 
+Geralmente a branch **master** é a branch que vai para produção, portanto, é uma boa prática sempre criar outras
+branches quando adicionar código.
+
 ## Issues
 Issues são sessões utilizadas para indicar que há algum problema, no entanto, hoje em dia 
 existem outras diversas utilizades interessantes para essa feature. Podemos criar um [kambam](https://rockcontent.com/br/blog/kanban/)
