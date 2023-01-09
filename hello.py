@@ -7,4 +7,9 @@ def greeter(name):
 def say(word):
     print(word)
 
-greet('Bob', 'Greg')
+def say_hello_times(n = 10):
+    for i in range(n):
+        print('Hello')
+
+#greet('Bob', 'Greg')
+say_hello_times(5)
