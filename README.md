@@ -92,3 +92,6 @@ de alteração no código. Para isso o usuário realiza um ``fork``, altera o pr
 
 Clicando [aqui](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) você encontra
 um artigo explicando melhor a relação entre as issues e pull requests.
+
+## Releases
+Podemos criar versões de lançamento com o comando ``git tag`` e passando a flag -a com a versão da release.
